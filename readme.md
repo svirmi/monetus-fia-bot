@@ -21,3 +21,4 @@ or
 $ yarn
 $ yarn dev
 ```
+https://github.com/gajus/table/issues/70
